@@ -1,0 +1,45 @@
+h1 {
+    color: red;
+}
+
+p{
+    color: black;
+	
+}
+	
+.special {
+    color: ;
+	font-weight: ;
+	text-align: ;
+}
+
+header {
+    background-color: lightblue;
+	width: 200px;
+	text-align: center left;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	box-shadow: 3px 3px 7px #300;
+}
+
+header a {
+    font-family: geneva, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+	font-weight: bold;
+	color: white;
+	margin: 15px;
+	text-decoration: none;
+	padding: 5px;
+}
+
+header a:hover {
+    text-decoration: underline;
+	color: yellow;
+	background-color: blue;
+}
+	
+body {
+    background-color: lightblue;
+}
+

@@ -1,0 +1,95 @@
+html {
+	padding: 40px;
+	background-color: lightblue;
+}
+
+body {
+	background-image: url("http://www.hdwallpapersn.com/wp-content/uploads/2015/04/nature-background-images1.jpg");
+	background-color: transparent;
+	font-family: italic;
+	width: 800px;
+	margin: 0 auto;
+	border-radius: 10px;
+	border: 10px solid black;
+}
+
+h1 {
+	text-align: center;
+	border-style: solid;
+	border-color: blue;
+	color: darkblue;
+}
+
+.left {
+	text-align: center;
+}
+
+.right {
+
+}
+
+.image-container {
+
+}
+
+.my-image {
+	border-style: groove;
+	border-color: green;
+	border-radius: 10%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	margin-top: 50px;
+	float: right;
+}
+
+.related {	
+	float: left;
+	text-shadow: 0 1px 1px black;
+	font: 20px;
+}
+
+.row {
+	overflow: hidden;
+	padding: 0 40px;
+}
+
+blockquote {
+
+}
+button {
+
+}
+
+.bat-signal {
+
+}
+
+.danger {
+
+}
+
+ul {
+	color: blue;
+
+}
+
+.super-list {
+	color: blue;
+	float: left;
+
+}
+
+#super-powers {
+	color: blue;
+}
+
+h3 {
+	color: blue;
+}
+
+p {
+	font-weight: bold;
+	font-size: 30px;
+}
